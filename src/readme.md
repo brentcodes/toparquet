@@ -1,1 +1,2 @@
-[Architecture Diagram](Architecture.txt)
+
+![Architecture Diagram](Architecture.png)
